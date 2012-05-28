@@ -1,0 +1,8 @@
+en:
+  leshi_server:
+    live:
+      success:  live video success
+      fail: live video fail
+    archived:
+      success: archive video success
+      fail: archive video fail
